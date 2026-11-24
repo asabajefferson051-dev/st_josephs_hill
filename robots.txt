@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin.php
+Disallow: /includes/
+Sitemap: https://stjosephshillss.ac.ug/sitemap.xml
